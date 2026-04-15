@@ -1,1 +1,1 @@
-# GenAI_Bot
+The GenAI Bot is an AI-based chatbot designed to assist students with academic queries, project guidance, and general knowledge. It uses Generative AI techniques to provide intelligent, real-time responses in a simple and user-friendly way.
