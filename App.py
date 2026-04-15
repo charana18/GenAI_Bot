@@ -9,7 +9,7 @@ st.title("PragyanAI - Content Generator")
 st.image("nature.jpeg")
 
 # Get GROQ API Key
-client = Groq(api_key=st.secrets["GROQ_API_KEY"])
+client = Groq(api_key=st.secrets["groq_api_key"])
 
 # User inputs
 product = st.text_input("Product")
