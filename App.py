@@ -5,8 +5,8 @@ from groq import Groq
 st.set_page_config(page_title="charana, layout="wide")
 
 # Title and image
-st.title("PragyanAI - Content Generator")
-st.image("nature.jpg")
+st.title("charana")
+st.image("ai.jpg")
 
 # Get GROQ API Key
 client = Groq(api_key=st.secrets["Charana"])
